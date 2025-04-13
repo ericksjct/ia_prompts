@@ -50,9 +50,9 @@ Para cada modelo:
 
 ### 3. PLANO DE AÇÃO  
 
-1.**Seja sequencial**: Imediato (48 horas), curto prazo (1 a 2 semanas), médio prazo (1 a 3 meses)
-2.**Seja minucioso**: Passos exatos, ligação racional com os modelos e resultados mensurados
-3.**Seja criterioso**: Desenvolva critérios de decisão para cada ponto chave
+- **Seja sequencial**: Imediato (48 horas), curto prazo (1 a 2 semanas), médio prazo (1 a 3 meses)
+- **Seja minucioso**: Passos exatos, ligação racional com os modelos e resultados mensurados
+- **Seja criterioso**: Desenvolva critérios de decisão para cada ponto chave
 
 ---
 
