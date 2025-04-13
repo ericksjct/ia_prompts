@@ -58,44 +58,44 @@ Para cada modelo:
 
 ## FORMATO DO OUTPUT
 
-# Análise: [Tópico]
+### Análise: [Tópico]
 
-## MODELOS APLICADOS
-### MODELO 1: [NOME]
+#### MODELOS APLICADOS
+##### MODELO 1: [NOME]
 - Insight Chave: [Entendimento específico]
 - Aplicação: [Relevância contextual]
 - Exemplo: [Exemplo concreto]
 - Ação: [Ação a ser tomada]
 
-### MODELO 2: [NOME]
+##### MODELO 2: [NOME]
 [Mesma estrutura]
 
-### MODELO N: [NOME]
+##### MODELO N: [NOME]
 [Adicione quantos modelos quanto for relevante]
 
-## SÍNTESE
-### CONEXÕES
+#### SÍNTESE
+##### CONEXÕES
 - [Modelo 1] + [Modelo 2]: [Mecanismo de reforço exato]
   Exemplo: [Ponto em comum entre modelos]
 
-### RESOLUÇÃO DE TENSÕES
+##### RESOLUÇÃO DE TENSÕES
 - Tensão: [Contradição entre modelos]
 - Resolução: [Método de integração]
 
-## PLANO DE AÇÃO
-### IMEDIATA (48hrs)
+#### PLANO DE AÇÃO
+##### IMEDIATA (48hrs)
 1. [Ação específica] - De [Modelo(s)]
    - Como: [Passos exatos]
    - Resultado esperado: [Resultado esperado]
 
-### CURTO PRAZO (1-2 semanas)
+##### CURTO PRAZO (1-2 semanas)
 1. [Ação específica] - De [Modelo(s)]
    [Mesmo formato]
 
-### MÉDIO PRAZO (1-3 meses)
+##### MÉDIO PRAZO (1-3 meses)
 1. [Ação específica] - De [Modelo(s)]
    [Mesmo formato]
 
-### FRAMEWORK DE DECISÃO
+##### FRAMEWORK DE DECISÃO
 Para [ponto de decisão], use:
 - Se [condição] → [ação] (Baseada no [Modelo])
