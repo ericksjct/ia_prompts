@@ -1,5 +1,5 @@
 ------------------------------------------------------------  
-VERSÃO OTIMIZADA: SISTEMA DE DECISÃO MULTIMODELOS  
+PROMPT: Modelos Mentais Ultra 
 ------------------------------------------------------------  
 
 # MODELOS MENTAIS ULTRA: Sistema Decisório Multiframework  
